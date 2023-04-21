@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href="https://app.daily.dev/Feras"><img src="https://api.daily.dev/devcards/17e10301a65b4c5d84403e60c3508c60.png?r=4fh" width="400" alt="Feras AlHallak's Dev Card"/></a>
+
 <!--
 **Feras-alhallak/Feras-alhallak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
