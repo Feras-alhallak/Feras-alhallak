@@ -16,9 +16,12 @@
     />
   </a>
  
-  </a>
 
-  <a href="https://app.daily.dev/Feras"><img src="https://api.daily.dev/devcards/17e10301a65b4c5d84403e60c3508c60.png?r=4fh" width="400" alt="Feras AlHallak's Dev Card"/></a>
+
+  <a href="https://app.daily.dev/Feras"><img src="https://api.daily.dev/devcards/17e10301a65b4c5d84403e60c3508c60.png?r=4fh" 
+                                             width="256"
+      align="right"
+                                              alt="Feras AlHallak's Dev Card"/></a>
 </div>
 
 ## I am Feras AlHallak
