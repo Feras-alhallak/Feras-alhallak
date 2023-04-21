@@ -29,7 +29,7 @@
 - Developer at [Namaa Solutions](https://namaa-solutions.com/)
 - Loves a freshly brewed cup of coffee
 
-![Metrics](https://raw.githubusercontent.com/omBratteng/omBratteng/github-metrics/github-metrics.svg)
+![Metrics](https://raw.githubusercontent.com/Feras-alhallak/Feras-alhallak/github-metrics/github-metrics.svg)
 
 
 
